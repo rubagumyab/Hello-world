@@ -1,2 +1,3 @@
 # Hello-world
-The biginning
+I am very interested in programming!
+and hope to improve!
